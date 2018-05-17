@@ -15,7 +15,7 @@
     "react-dom": "^16.0.0",
     "react-redux": "^5.0.7",
     "redux": "^3.7.2",
-    "redux-enterprise": "^0.0.2",
+    "redux-enterprise": "^0.0.4",
     "styled-components": "^2.1.0"
   },
   "license": "MIT",
