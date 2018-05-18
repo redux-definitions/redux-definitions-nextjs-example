@@ -18,6 +18,7 @@ const { reducers } = defineState({
   selected: Index,
   todoEditor: {
     isEditing: Flag,
+    text: Field,
     editingId: Field,
   },
 })
