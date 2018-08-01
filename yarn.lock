@@ -3701,12 +3701,6 @@ npmconf@^2.1.2:
     gauge "~2.7.3"
     set-blocking "~2.0.0"
 
-nrmlzd@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/nrmlzd/-/nrmlzd-0.0.1.tgz#55d601a29042d2c5d84c1157e009376816eb702f"
-  dependencies:
-    lodash "^4.17.4"
-
 number-is-nan@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
@@ -4323,12 +4317,11 @@ redux-actions@^2.3.0:
     lodash-es "^4.17.4"
     reduce-reducers "^0.1.0"
 
-redux-enterprise@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/redux-enterprise/-/redux-enterprise-0.0.4.tgz#8c04974730b59e1aed33d4b4c638efcee6b243a4"
+redux-enterprise@^0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/redux-enterprise/-/redux-enterprise-0.0.7.tgz#a99092d2d131adc10d040aa44fe2e92581cb68ab"
   dependencies:
     lodash "^4.17.5"
-    nrmlzd "^0.0.1"
     redux "^3.7.2"
     redux-actions "^2.3.0"
 
