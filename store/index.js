@@ -1,6 +1,6 @@
 import { createStore, combineReducers, applyMiddleware } from 'redux'
 import { startRepl } from 'redux-enterprise'
-import { reducers } from '../state'
+import { reducers } from '../reducers'
 
 const bindMiddleware = (middleware = []) => {
   if (process.env.NODE_ENV !== 'production') {
