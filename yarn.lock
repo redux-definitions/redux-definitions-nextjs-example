@@ -4317,9 +4317,9 @@ redux-actions@^2.3.0:
     lodash-es "^4.17.4"
     reduce-reducers "^0.1.0"
 
-redux-enterprise@^0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/redux-enterprise/-/redux-enterprise-0.0.7.tgz#a99092d2d131adc10d040aa44fe2e92581cb68ab"
+redux-enterprise@^0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/redux-enterprise/-/redux-enterprise-0.0.9.tgz#2be002002ab755b8dcb3dcae0facd14da9b9f7b6"
   dependencies:
     lodash "^4.17.5"
     redux "^3.7.2"
