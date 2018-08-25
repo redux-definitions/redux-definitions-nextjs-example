@@ -16,7 +16,7 @@ export default class Todo extends Component {
   static propTypes = {
     dispatch: func.isRequired,
     id: string.isRequired,
-    text: string.isRequired,
+    text: string,
     isSelected: bool.isRequired,
     isCompleted: bool.isRequired,
   }
